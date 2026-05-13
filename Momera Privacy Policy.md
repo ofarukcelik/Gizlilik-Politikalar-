@@ -1,43 +1,50 @@
-MOMERA GİZLİLİK POLİTİKASI
-Son Güncelleme: 13 Mayıs 2026
+# Momera: Hamilelik Takibi - Gizlilik Politikası
 
-Momera ("biz", "tarafımız" veya "uygulama") olarak, kullanıcılarımızın ("siz") gizliliğine ve kişisel verilerinin korunmasına büyük önem veriyoruz. Bu Gizlilik Politikası, Momera mobil uygulamasını kullandığınızda hangi verilerin toplandığını, nasıl kullanıldığını ve verilerinizin güvenliğinin nasıl sağlandığını açıklar.
+**Son Güncelleme:** 13 Mayıs 2026
 
-1. Toplanan Veriler ve Kullanım Amaçları
-Uygulamamızın temel işlevlerini (hamilelik takibi, kişiselleştirilmiş rehberlik ve analizler) yerine getirebilmesi için aşağıdaki bilgiler işlenmektedir:
+Momera ("biz", "tarafımız" veya "uygulama") olarak, kullanıcılarımızın gizliliğine ve kişisel verilerinin korunmasına büyük önem veriyoruz. Bu Gizlilik Politikası, Momera mobil uygulamasını kullandığınızda hangi verilerin işlendiğini ve bu verilerin güvenliğinin nasıl sağlandığını açıklar.
 
-Hamilelik Bilgileri: Son adet tarihi (SAT), hamilelik başlangıç kilosu, bebek cinsiyeti ve kullanıcı ismi. Bu bilgiler, size özel hamilelik takvimi oluşturmak ve gelişim süreçlerini hesaplamak için kullanılır.
+---
 
-Kullanıcı Kayıtları (Günlük Veriler): Günlük içilen su miktarı, kilo takibi, mod (hissiyat) durumu. Bu veriler, hamilelik sürecinizi analiz etmeniz ve hatırlatıcılar almanız için kullanılır.
+## 1. Toplanan Veriler ve Kullanım Amaçları
 
-Profil Bilgileri: Tercihinize bağlı olarak eklediğiniz profil resmi.
+Uygulamamızın temel işlevlerini (hafta hafta hamilelik takibi, gelişim raporları ve analizler) yerine getirebilmesi için aşağıdaki bilgiler kullanıcı tarafından isteğe bağlı olarak girilir:
 
-2. Yerel Depolama (Local Storage) İlkesi
-Gizliliğinizi en üst düzeyde tutmak adına Momera, en hassas verilerinizi sunucularına göndermez.
+*   **Hamilelik Bilgileri:** Son adet tarihi (SAT), hamilelik başlangıç kilosu ve bebek cinsiyeti. Bu veriler, size özel hamilelik takvimi oluşturmak ve gelişim süreçlerini hesaplamak için kullanılır.
+*   **Kullanıcı Bilgileri:** Kullanıcı ismi ve profil resmi. Uygulama deneyimini kişiselleştirmek için kullanılır.
+*   **Günlük Kayıtlar:** Günlük içilen su miktarı, kilo takibi ve günlük mod (hissiyat) durumu. Bu bilgiler, hamilelik sürecindeki değişimlerinizi analiz etmeniz ve hatırlatıcılar almanız için işlenir.
 
-Kişisel Günlükler ve Fotoğraflar: "Anne karnı" değişim fotoğrafları, günlük su/kilo kayıtları ve hissiyat durumları sadece sizin cihazınızda (lokal olarak) saklanır.
+## 2. %100 Yerel Depolama (Local Storage) İlkesi
 
-Bu verilere tarafımızca veya üçüncü şahıslarca uzaktan erişim sağlanması mümkün değildir. Uygulamayı silmeniz durumunda, yerel olarak saklanan bu veriler de cihazınızdan silinebilir.
+Gizliliğinizi en üst düzeyde tutmak adına Momera, en hassas verilerinizi **kendi sunucularına aktarmaz ve uzak bir veritabanında saklamaz.**
 
-3. Cihaz İzinleri
-Momera, işlevselliğini sağlamak için aşağıdaki izinleri talep edebilir:
+*   **Cihazda Saklama:** Anne karnı gelişim fotoğrafları, günlük su/kilo kayıtları, mod durumları ve tüm hamilelik verileri **yalnızca sizin cihazınızda (lokal olarak) saklanır.**
+*   **Veri Erişimi:** Bu verilere tarafımızca veya herhangi bir üçüncü şahıs tarafından uzaktan erişim sağlanması teknik olarak mümkün değildir.
+*   **Veri Silme:** Uygulamayı cihazınızdan sildiğinizde, cihazınızın işletim sistemi politikalarına bağlı olarak yerel veriler de silinebilir. Verilerinizin yedeğini tutmak kullanıcının sorumluluğundadır.
 
-Kamera İzni: Kullanıcının isteğe bağlı olarak profil fotoğrafı çekmesi veya kendi hamilelik süreci fotoğraflarını (karın resmi takibi vb.) uygulama içine eklemesi için istenir.
+## 3. İstenen İzinler ve Amaçları
 
-Galeri İzni: Cihazınızda kayıtlı olan fotoğrafları profil resmi veya gelişim takibi için uygulamaya yükleyebilmeniz amacıyla kullanılır.
+Momera, kullanıcı deneyimini zenginleştirmek için aşağıdaki izinleri talep eder:
 
-Not: Bu izinler tamamen isteğe bağlıdır (optional). İzin vermemeniz durumunda uygulamanın temel hamilelik takip özellikleri çalışmaya devam eder, ancak fotoğraf ekleme özelliklerini kullanamazsınız.
+*   **Kamera (android.permission.CAMERA):** Kullanıcının isteğe bağlı olarak profil fotoğrafı çekmesi veya "Anne Karnı Gelişimi" albümü için fotoğraf çekip uygulama içine eklemesi için kullanılır.
+*   **Galeri / Depolama:** Cihazda kayıtlı fotoğrafların profil resmi olarak seçilmesi veya uygulama içindeki kişisel fotoğraf günlüğüne eklenmesi için kullanılır.
 
-4. Veri Paylaşımı ve Üçüncü Taraflar
-Momera, kişisel verilerinizi üçüncü taraflara satmaz veya ticari amaçlarla paylaşmaz. Uygulamanın performansını artırmak ve teknik hataları takip etmek amacıyla anonim analiz araçları (örneğin Google Play Hizmetleri) kullanılabilir.
+> **Önemli:** Bu izinler tamamen opsiyoneldir. İzin vermediğiniz takdirde fotoğraf ekleme özellikleri dışındaki tüm hamilelik takip özellikleri çalışmaya devam eder.
 
-5. Veri Güvenliği
-Cihazınızda saklanan verilerin güvenliği, cihazınızın sağladığı güvenlik önlemleriyle korunur. Hassas sağlık verilerinizin güvenliği için cihazınızı yetkisiz erişimlere karşı korumanızı (şifre, biyometrik kilit vb.) öneririz.
+## 4. Veri Güvenliği
 
-6. Çocukların Gizliliği
-Momera, hamilelik sürecindeki yetişkin bireylere yönelik bir uygulamadır. 13 yaşın altındaki çocuklardan bilerek kişisel veri toplamaz.
+Verileriniz cihazınızda saklandığı için güvenliği, cihazınızın sağladığı güvenlik önlemleri (şifre, parmak izi, yüz tanıma vb.) ile paraleldir. Hassas verilerinizin korunması için cihaz güvenliğinizi güncel tutmanızı öneririz.
 
-7. İletişim
-Bu Gizlilik Politikası hakkında sorularınız veya geri bildirimleriniz için bizimle iletişime geçebilirsiniz:
+## 5. Üçüncü Taraf Hizmetleri
 
-E-posta: momeraapp@gmail.com
+Uygulama, hataları tespit etmek ve performans iyileştirmeleri yapmak amacıyla anonim teknik veriler toplayan üçüncü taraf hizmetleri (Google Play Hizmetleri vb.) kullanabilir. Bu veriler kimliğinizi tanımlamaz.
+
+## 6. Çocukların Gizliliği
+
+Momera, yetişkin bireylere yönelik bir hamilelik takip uygulamasıdır. 13 yaşın altındaki çocuklardan doğrudan veri toplamaz.
+
+## 7. İletişim
+
+Bu Gizlilik Politikası ile ilgili herhangi bir sorunuz olması durumunda bizimle iletişime geçebilirsiniz:
+
+**E-posta:** momeraapp@gmail.com
