@@ -19,7 +19,7 @@ Last updated: 11 November 2026
   Legal basis: legitimate interest in a working app (GDPR Art. 6(1)(f); KVKK Art. 5(2)(f)).
   Kept for: 90 days.
 - Advertising ID (Android advertising ID / iOS IDFA) and ad interactions.
-  Purpose: show optional rewarded videos; personalise them only if you agree.
+  Purpose: show ads (a banner while you browse the Mansion or Album panel, and optional rewarded videos); personalise them only if you agree.
   Legal basis: your consent (collected through Google's consent tool; on iOS also Apple's App Tracking Transparency).
   Kept for: according to Google's policies (see section 4).
 - Remote configuration requests (Firebase installation ID).
@@ -36,7 +36,7 @@ Your progress and backups: the save file stays on your phone; we do not receive 
 We do not sell your personal data and do not use it for automated decisions with legal effects.
 
 3. Ads
-Ads appear only when you choose to watch a rewarded video (for example to refill energy). If you decline personalised ads, Google may still show non-personalised ads, which use limited data such as approximate location (from your IP address) and the current app. On iOS we ask for tracking permission only after your first play session, only if personalised ads are enabled and you agreed in our consent screen.
+The game shows two kinds of ads. A small banner may appear at the bottom of the screen while the Mansion or the Album panel is open, once you have finished the tutorial and restored your first room; it never appears on the merge board. Rewarded videos play only when you choose to watch one (for example to refill energy). If you decline personalised ads, Google may still show non-personalised ads, which use limited data such as approximate location (from your IP address) and the current app. On iOS we ask for tracking permission only after your first play session, only if personalised ads are enabled and you agreed in our consent screen.
 
 4. Service providers and international transfers
 - Google LLC / Google Ireland Limited: Firebase Analytics, Firebase Crashlytics, Firebase Remote Config, Google Mobile Ads (AdMob) and the User Messaging Platform (consent). See https://policies.google.com/privacy and https://policies.google.com/technologies/partner-sites
@@ -88,7 +88,7 @@ Heirloom: Merge & Restore oyunu ("oyun") [Omer Faruk Celik], [Başakşehir İsta
   Hukuki sebep: çalışan bir uygulamadaki meşru menfaat (KVKK m.5/2-f; GDPR m.6/1-f).
   Saklama: 90 gün.
 - Reklam kimliği (Android reklam kimliği / iOS IDFA) ve reklam etkileşimleri.
-  Amaç: isteğe bağlı ödüllü videoları göstermek; yalnızca onay verirseniz kişiselleştirmek.
+  Amaç: reklam göstermek (Konak ya da Albüm paneli açıkken banner ve isteğe bağlı ödüllü videolar); yalnızca onay verirseniz kişiselleştirmek.
   Hukuki sebep: açık rızanız (Google'ın onay aracıyla; iOS'ta ayrıca Apple'ın Uygulama Takip Şeffaflığı izniyle).
   Saklama: Google'ın politikalarına göre (bkz. bölüm 4).
 - Uzaktan yapılandırma istekleri (Firebase kurulum kimliği).
@@ -105,7 +105,7 @@ Heirloom: Merge & Restore oyunu ("oyun") [Omer Faruk Celik], [Başakşehir İsta
 Kişisel verilerinizi satmayız ve hukuki sonuç doğuran otomatik kararlarda kullanmayız.
 
 3. Reklamlar
-Reklam yalnızca siz ödüllü video izlemeyi seçtiğinizde (örneğin enerji doldurmak için) gösterilir. Kişiselleştirilmiş reklamı reddederseniz Google, yaklaşık konum (IP adresinden) ve kullanılan uygulama gibi sınırlı verilerle kişiselleştirilmemiş reklam gösterebilir. iOS'ta takip izni yalnızca ilk oyun oturumunuzdan sonra, kişiselleştirilmiş reklam açıksa ve onay ekranımızda kabul ettiyseniz istenir.
+Oyunda iki tür reklam vardır. Öğreticiyi bitirip ilk odayı restore ettikten sonra, Konak ya da Albüm paneli açıkken ekranın altında küçük bir banner görünebilir; oyun tahtasında hiçbir zaman görünmez. Ödüllü videolar yalnızca siz izlemeyi seçtiğinizde (örneğin enerji doldurmak için) oynatılır. Kişiselleştirilmiş reklamı reddederseniz Google, yaklaşık konum (IP adresinden) ve kullanılan uygulama gibi sınırlı verilerle kişiselleştirilmemiş reklam gösterebilir. iOS'ta takip izni yalnızca ilk oyun oturumunuzdan sonra, kişiselleştirilmiş reklam açıksa ve onay ekranımızda kabul ettiyseniz istenir.
 
 4. Hizmet sağlayıcılar ve yurt dışına aktarım
 - Google LLC / Google Ireland Limited: Firebase Analytics, Firebase Crashlytics, Firebase Remote Config, Google Mobile Ads (AdMob) ve Kullanıcı Mesajlaşma Platformu (onay). Bkz. https://policies.google.com/privacy ve https://policies.google.com/technologies/partner-sites
