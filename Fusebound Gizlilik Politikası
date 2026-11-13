@@ -26,6 +26,11 @@ Omer Faruk Celik, Başakşehir / İstanbul ("we", "us") makes the game Fusebound
   Purpose: adjust game balance (enemy strength, prices, rewards) without an app update.
   Legal basis: legitimate interest in a balanced game (GDPR Art. 6(1)(f); KVKK Art. 5(2)(f)).
   Kept for: according to Google's Firebase terms.
+- Purchases (only if you buy something in the game).
+  Payment is handled by Google Play or the Apple App Store under your store account; we never receive your card, bank or account details. The store tells the game that the purchase was completed, and the game stores on your phone that you own the item. If you agreed to analytics, an event saying that a purchase of that item was started, completed or not completed is recorded with your other gameplay events (no payment details).
+  Purpose: deliver what you bought and restore it on a new phone.
+  Legal basis: performance of the contract (GDPR Art. 6(1)(b); KVKK Art. 5(2)(c)); for the analytics event, your consent.
+  Kept for: on your phone until you delete the game; store records according to the store's terms.
 - Your consent choices.
   Purpose: prove and respect your choice.
   Legal basis: legal obligation.
@@ -36,7 +41,7 @@ Your progress and backups: the save file stays on your phone; we do not receive 
 We do not sell your personal data and do not use it for automated decisions with legal effects.
 
 3. Ads
-The game shows two kinds of ads. A small banner may appear at the bottom of menu screens (home, path choice, shop, rest, event and run-end screens) once you have finished your first run; it never appears during a fight. Rewarded videos play only when you choose to watch one (for example to revive once in a run or to reroll a card reward). If you decline personalised ads, Google may still show non-personalised ads, which use limited data such as approximate location (from your IP address) and the current app. On iOS we ask for tracking permission only after your first play session, only if personalised ads are enabled and you agreed in our consent screen.
+The game shows two kinds of ads. A small banner may appear at the bottom of menu screens (home, path choice, shop, rest, event and run-end screens) once you have finished your first run; it never appears during a fight. Rewarded videos play only when you choose to watch one (for example to revive once in a run or to reroll a card reward). If you decline personalised ads, Google may still show non-personalised ads, which use limited data such as approximate location (from your IP address) and the current app. On iOS we ask for tracking permission only after your first play session, only if personalised ads are enabled and you agreed in our consent screen. The optional one-time ad-free pack removes the banner and gives the same rewards without a video.
 
 4. Service providers and international transfers
 - Google LLC / Google Ireland Limited: Firebase Analytics, Firebase Crashlytics, Firebase Remote Config, Google Mobile Ads (AdMob) and the User Messaging Platform (consent). See https://policies.google.com/privacy and https://policies.google.com/technologies/partner-sites
@@ -95,6 +100,11 @@ Fusebound oyunu ("oyun") Omer Faruk Celik, Başakşehir / İstanbul ("biz") tara
   Amaç: güncelleme gerekmeden oyun dengesini (düşman gücü, fiyat, ödül) ayarlamak.
   Hukuki sebep: dengeli bir oyundaki meşru menfaat (KVKK m.5/2-f; GDPR m.6/1-f).
   Saklama: Google Firebase koşullarına göre.
+- Satın alımlar (yalnızca oyunda bir şey satın alırsanız).
+  Ödeme, mağaza hesabınız üzerinden Google Play veya Apple App Store tarafından alınır; kart, banka veya hesap bilgileriniz bize hiçbir zaman gelmez. Mağaza, satın almanın tamamlandığını oyuna bildirir; oyun da ürünün sizde olduğunu telefonunuzda saklar. Analitiğe onay verdiyseniz, o ürün için satın almanın başladığını, tamamlandığını veya tamamlanmadığını söyleyen bir olay diğer oynanış olaylarınızla birlikte kaydedilir (ödeme bilgisi içermez).
+  Amaç: satın aldığınızı teslim etmek ve yeni telefonda geri yüklemek.
+  Hukuki sebep: sözleşmenin ifası (KVKK m.5/2-c; GDPR m.6/1-b); analitik olayı için açık rızanız.
+  Saklama: telefonunuzda oyunu silene kadar; mağaza kayıtları mağazanın koşullarına göre.
 - Onay tercihleriniz.
   Amaç: tercihinizi ispat etmek ve uygulamak.
   Hukuki sebep: hukuki yükümlülük.
@@ -105,7 +115,7 @@ Fusebound oyunu ("oyun") Omer Faruk Celik, Başakşehir / İstanbul ("biz") tara
 Kişisel verilerinizi satmayız ve hukuki sonuç doğuran otomatik kararlarda kullanmayız.
 
 3. Reklamlar
-Oyunda iki tür reklam vardır. İlk koşunuzu bitirdikten sonra menü ekranlarının (ana ekran, yol seçimi, dükkân, dinlenme, olay ve koşu sonu) altında küçük bir banner görünebilir; savaş sırasında hiçbir zaman görünmez. Ödüllü videolar yalnızca siz izlemeyi seçtiğinizde (örneğin koşuda bir kez canlanmak ya da kart ödülünü yeniden çekmek için) oynatılır. Kişiselleştirilmiş reklamı reddederseniz Google, yaklaşık konum (IP adresinden) ve kullanılan uygulama gibi sınırlı verilerle kişiselleştirilmemiş reklam gösterebilir. iOS'ta takip izni yalnızca ilk oyun oturumunuzdan sonra, kişiselleştirilmiş reklam açıksa ve onay ekranımızda kabul ettiyseniz istenir.
+Oyunda iki tür reklam vardır. İlk koşunuzu bitirdikten sonra menü ekranlarının (ana ekran, yol seçimi, dükkân, dinlenme, olay ve koşu sonu) altında küçük bir banner görünebilir; savaş sırasında hiçbir zaman görünmez. Ödüllü videolar yalnızca siz izlemeyi seçtiğinizde (örneğin koşuda bir kez canlanmak ya da kart ödülünü yeniden çekmek için) oynatılır. Kişiselleştirilmiş reklamı reddederseniz Google, yaklaşık konum (IP adresinden) ve kullanılan uygulama gibi sınırlı verilerle kişiselleştirilmemiş reklam gösterebilir. iOS'ta takip izni yalnızca ilk oyun oturumunuzdan sonra, kişiselleştirilmiş reklam açıksa ve onay ekranımızda kabul ettiyseniz istenir. İsteğe bağlı, tek seferlik reklamsız paket banner'ı kaldırır ve aynı ödülleri video izlemeden verir.
 
 4. Hizmet sağlayıcılar ve yurt dışına aktarım
 - Google LLC / Google Ireland Limited: Firebase Analytics, Firebase Crashlytics, Firebase Remote Config, Google Mobile Ads (AdMob) ve Kullanıcı Mesajlaşma Platformu (onay). Bkz. https://policies.google.com/privacy ve https://policies.google.com/technologies/partner-sites
