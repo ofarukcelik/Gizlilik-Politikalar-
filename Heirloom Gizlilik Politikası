@@ -1,6 +1,6 @@
 Privacy Policy — Heirloom: Merge & Restore
 
-Last updated: 11 November 2026
+Last updated: 14 November 2026
 
 CodingTech Studio, Başakşehir / İstanbul ("we", "us") makes the game Heirloom: Merge & Restore ("the game"). This policy explains what data the game uses, why, and your choices. Contact: codingtechstudio@gmail.com
 
@@ -30,6 +30,11 @@ CodingTech Studio, Başakşehir / İstanbul ("we", "us") makes the game Heirloom
   Purpose: prove and respect your choice.
   Legal basis: legal obligation.
   Kept for: as long as the choice is valid.
+- Purchases (only if you buy something in the game).
+  Payment is handled by Google Play or the Apple App Store under your store account; we never receive your card, bank or account details. The store tells the game that the purchase was completed, and the game stores on your phone that you own the item. If you agreed to analytics, an event saying that a purchase of that item was started, completed or not completed is recorded with your other gameplay events (no payment details).
+  Purpose: deliver what you bought and restore it on a new phone.
+  Legal basis: performance of the contract (GDPR Art. 6(1)(b); KVKK Art. 5(2)(c)); for the analytics event, your consent.
+  Kept for: on your phone until you delete the game; store records according to the store's terms.
 
 Your progress and backups: the save file stays on your phone; we do not receive it. If your phone's own backup is on (Google backup on Android, iCloud on iOS), Google or Apple may include it in that backup under your account and restore it on a new phone.
 
@@ -40,7 +45,7 @@ The game shows two kinds of ads. A small banner may appear at the bottom of the 
 
 4. Service providers and international transfers
 - Google LLC / Google Ireland Limited: Firebase Analytics, Firebase Crashlytics, Firebase Remote Config, Google Mobile Ads (AdMob) and the User Messaging Platform (consent). See https://policies.google.com/privacy and https://policies.google.com/technologies/partner-sites
-- Apple Inc. and Google LLC: app stores.
+- Apple Inc. and Google LLC: app stores and in-app purchases.
 
 Some providers process data outside your country, including in the United States. For transfers from the EU/UK we rely on the EU–US Data Privacy Framework where the provider is certified, or on Standard Contractual Clauses. For transfers from Türkiye we rely on the safeguards set out in Article 9 of the Turkish Personal Data Protection Law (KVKK).
 
@@ -69,7 +74,7 @@ CodingTech Studio · Başakşehir / İstanbul · codingtechstudio@gmail.com
 
 Gizlilik Politikası — Heirloom: Merge & Restore
 
-Son güncelleme: 11 Kasım 2026
+Son güncelleme: 14 Kasım 2026
 
 Heirloom: Merge & Restore oyunu ("oyun") CodingTech Studio, Başakşehir / İstanbul ("biz") tarafından geliştirilir. Bu politika, oyunun hangi verileri neden kullandığını ve seçeneklerinizi açıklar. İletişim: codingtechstudio@gmail.com
 
@@ -99,6 +104,11 @@ Heirloom: Merge & Restore oyunu ("oyun") CodingTech Studio, Başakşehir / İsta
   Amaç: tercihinizi ispat etmek ve uygulamak.
   Hukuki sebep: hukuki yükümlülük.
   Saklama: tercih geçerli olduğu sürece.
+- Satın alımlar (yalnızca oyunda bir şey satın alırsanız).
+  Ödeme, mağaza hesabınız üzerinden Google Play veya Apple App Store tarafından alınır; kart, banka veya hesap bilgileriniz bize hiçbir zaman gelmez. Mağaza, satın almanın tamamlandığını oyuna bildirir; oyun da ürünün sizde olduğunu telefonunuzda saklar. Analitiğe onay verdiyseniz, o ürün için satın almanın başladığını, tamamlandığını veya tamamlanmadığını söyleyen bir olay diğer oynanış olaylarınızla birlikte kaydedilir (ödeme bilgisi içermez).
+  Amaç: satın aldığınızı teslim etmek ve yeni telefonda geri yüklemek.
+  Hukuki sebep: sözleşmenin ifası (KVKK m.5/2-c; GDPR m.6/1-b); analitik olayı için açık rızanız.
+  Saklama: telefonunuzda oyunu silene kadar; mağaza kayıtları mağazanın koşullarına göre.
 
 İlerlemeniz ve yedekler: Kayıt dosyası telefonunuzda kalır, bize gelmez. Telefonunuzun kendi yedeği açıksa (Android'de Google yedeği, iOS'ta iCloud) Google veya Apple bu dosyayı sizin hesabınızda yedekleyip yeni telefona geri yükleyebilir.
 
@@ -109,7 +119,7 @@ Oyunda iki tür reklam vardır. Öğreticiyi bitirip ilk odayı restore ettikten
 
 4. Hizmet sağlayıcılar ve yurt dışına aktarım
 - Google LLC / Google Ireland Limited: Firebase Analytics, Firebase Crashlytics, Firebase Remote Config, Google Mobile Ads (AdMob) ve Kullanıcı Mesajlaşma Platformu (onay). Bkz. https://policies.google.com/privacy ve https://policies.google.com/technologies/partner-sites
-- Apple Inc. ve Google LLC: uygulama mağazaları.
+- Apple Inc. ve Google LLC: uygulama mağazaları ve uygulama içi satın alma.
 
 Bazı sağlayıcılar verileri ABD dahil yurt dışında işler. AB/Birleşik Krallık'tan aktarımlarda, sağlayıcı sertifikalıysa AB–ABD Veri Gizliliği Çerçevesi'ne, değilse Standart Sözleşme Hükümleri'ne dayanırız. Türkiye'den aktarımlarda 6698 sayılı KVKK'nın 9. maddesindeki güvencelere dayanırız.
 
