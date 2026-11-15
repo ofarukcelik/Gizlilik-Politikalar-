@@ -20,6 +20,9 @@ If the game crashes, Firebase Crashlytics receives a crash report: what went wro
 c) Advertising
 The game shows ads from Google AdMob: rewarded videos that play only when you tap a "watch" button, and a small banner on the park screen. There is no banner on the board and no ad that interrupts play. To show ads, Google receives your device's advertising ID, how you interact with ads, and your approximate location derived from your IP address. Ads are personalised only if you agree; otherwise you see non-personalised ads. On iPhone and iPad we also ask for the system's tracking permission before the first video, and only if you agreed to personalised ads.
 
+d) Purchases
+You can buy gems and a starter pack. Payment is handled by Google Play (or the App Store) in its own window; the game never sees your card or account details. The game only learns from the store that a product was paid, so it can give you the gems, and keeps that on your device.
+
 3. YOUR CHOICES
 - The game asks for your choice when you first open it. In the European Economic Area, the United Kingdom and Switzerland this is Google's consent form; elsewhere it is the game's own window.
 - You can change your choice at any time: Settings (the gear) > Privacy options > Change my choice.
@@ -63,6 +66,9 @@ Oyun çökerse Firebase Crashlytics bir çökme raporu alır: kodda neyin ters g
 
 c) Reklam
 Oyun Google AdMob reklamları gösterir: yalnızca siz bir "izle" düğmesine bastığınızda oynayan ödüllü videolar ve park ekranında küçük bir banner. Tahtada banner yoktur ve oyunu bölen reklam yoktur. Reklam göstermek için Google, cihazınızın reklam kimliğini, reklamlarla etkileşiminizi ve IP adresinizden çıkarılan yaklaşık konumunuzu alır. Reklamlar yalnızca kabul ederseniz kişiselleştirilir; aksi hâlde kişiselleştirilmemiş reklam görürsünüz. iPhone ve iPad'de ilk videodan önce, yalnızca kişiselleştirilmiş reklamı kabul ettiyseniz, sistemin izleme iznini de sorarız.
+
+d) Satın almalar
+Elmas ve bir başlangıç paketi satın alabilirsiniz. Ödemeyi Google Play (ya da App Store) kendi penceresinde yapar; oyun kart ya da hesap bilgilerinizi görmez. Oyun, elmasları verebilmek için mağazadan yalnızca ürünün ödendiğini öğrenir ve bunu cihazınızda saklar.
 
 3. SEÇENEKLERİNİZ
 - Oyun ilk açılışta seçiminizi sorar. Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de bu Google'ın onay formudur; diğer yerlerde oyunun kendi penceresidir.
