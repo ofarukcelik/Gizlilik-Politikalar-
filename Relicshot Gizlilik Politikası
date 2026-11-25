@@ -1,6 +1,6 @@
 Relicshot - Privacy Policy
 
-Last updated: 21 November 2026
+Last updated: 25 November 2026
 
 Relicshot is a mobile puzzle game made by CodingTech Studio, Başakşehir / İstanbul, Türkiye ("we").
 Contact: codingtechstudio@gmail.com
@@ -22,12 +22,12 @@ When the game crashes, a crash report is sent to Google Firebase Crashlytics so 
 
 To balance the levels, the game can send game events such as "level started", "level completed", "shots used", "booster used" or "coins spent" to Google Analytics for Firebase, together with an app-instance identifier, general device information (model, operating system, language, country derived from the IP address) and the time. Events contain no name, e-mail or free text. Purchases made in the shop are counted as events too, without any payment details.
 
-In the European Economic Area, the United Kingdom and Switzerland the game does not collect play statistics at all. Elsewhere it collects them on the basis of our legitimate interest in improving the game; you can object at any time by writing to us. The advertising identifier is not collected for statistics, and the statistics are never used for advertising: ad storage, ad user data and ad personalisation are switched off in the analytics settings.
+The game collects play statistics only with your consent. It asks once in its own "Play statistics" window; nothing is sent before you choose "Allow", and "No thanks" keeps them off. You can change your answer at any time under Settings > Privacy choices; if you then choose "No thanks", collection stops and the statistics data kept on your device is cleared. In the European Economic Area, the United Kingdom and Switzerland the game does not ask and does not collect play statistics at all. The advertising identifier is not collected for statistics, and the statistics are never used for advertising: ad storage, ad user data and ad personalisation are switched off in the analytics settings.
 
 
 4. Ads
 
-The game can show ads through Google AdMob: short videos you choose to watch for a reward (extra balls, double coins, an extra life) and, from level 16, at most one full-screen ad after a won level, never during play. Buying "Remove ads" turns the full-screen ads off. To show and measure ads, Google receives the advertising identifier of your device, your IP address (from which an approximate location is derived), device information and your interactions with the ads.
+The game can show ads through Google AdMob: short videos you choose to watch for a reward (extra balls, double coins, an extra life) and, from level 16 and not in your first three days, at most one full-screen ad after a won level, never during play. Any purchase in the shop turns the full-screen ads off for good. To show and measure ads, Google receives the advertising identifier of your device, your IP address (from which an approximate location is derived), device information and your interactions with the ads.
 
 Before any ad is requested, Google's consent form asks for your choice where the law requires it (for example in the European Economic Area, the United Kingdom and Switzerland). You can change your choice at any time under Settings > Privacy choices. You can also reset or delete the advertising identifier in your device settings.
 
@@ -66,7 +66,7 @@ If this policy changes, the date at the top changes and the new text is publishe
 
 Relicshot - Gizlilik Politikası
 
-Son güncelleme: 21 Kasım 2026
+Son güncelleme: 25 Kasım 2026
 
 Relicshot, CodingTech Studio (Başakşehir / İstanbul, Türkiye) tarafından yapılan bir mobil bulmaca oyunudur ("biz").
 İletişim: codingtechstudio@gmail.com
@@ -88,12 +88,12 @@ Oyun çöktüğünde, hatayı bulup düzeltebilmemiz için Google Firebase Crash
 
 Seviyeleri dengelemek için oyun; "seviye başladı", "seviye tamamlandı", "kullanılan atış", "güçlendirici kullanıldı" veya "jeton harcandı" gibi oyun olaylarını, bir uygulama örnek kimliği, genel cihaz bilgisi (model, işletim sistemi, dil, IP adresinden çıkarılan ülke) ve zaman bilgisiyle birlikte Google Analytics for Firebase'e gönderebilir. Olaylarda ad, e-posta veya serbest metin yoktur. Mağazadaki satın alımlar da ödeme bilgisi olmadan olay olarak sayılır.
 
-Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de oyun hiçbir oyun istatistiği toplamaz. Diğer yerlerde oyunu iyileştirmedeki meşru menfaatimize dayanarak toplar; bize yazarak istediğiniz zaman itiraz edebilirsiniz. Reklam kimliği istatistikler için toplanmaz ve istatistikler hiçbir zaman reklam için kullanılmaz: analiz ayarlarında reklam depolama, reklam kullanıcı verisi ve reklam kişiselleştirme kapalıdır.
+Oyun, istatistikleri yalnızca açık rızanızla toplar. Bunu kendi "Oyun istatistikleri" penceresinde bir kez sorar; siz "İzin ver"i seçmeden hiçbir şey gönderilmez, "Hayır, teşekkürler" seçeneği istatistikleri kapalı tutar. Yanıtınızı istediğiniz zaman Ayarlar > Gizlilik seçimleri bölümünden değiştirebilirsiniz; orada "Hayır, teşekkürler"i seçerseniz toplama durur ve cihazınızda tutulan istatistik verisi temizlenir. Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de oyun bunu sormaz ve hiçbir oyun istatistiği toplamaz. Reklam kimliği istatistikler için toplanmaz ve istatistikler hiçbir zaman reklam için kullanılmaz: analiz ayarlarında reklam depolama, reklam kullanıcı verisi ve reklam kişiselleştirme kapalıdır.
 
 
 4. Reklamlar
 
-Oyun, Google AdMob aracılığıyla reklam gösterebilir: ödül karşılığında (ek gülle, iki kat jeton, ek can) izlemeyi sizin seçtiğiniz kısa videolar ve 16. seviyeden sonra, kazanılan bir seviyenin ardından en fazla bir tam ekran reklam; oyun sırasında asla. "Reklamları kaldır" satın alımı tam ekran reklamları kapatır. Reklam gösterip ölçebilmek için Google; cihazınızın reklam kimliğini, IP adresinizi (buradan yaklaşık konum çıkarılır), cihaz bilgisini ve reklamlarla etkileşiminizi alır.
+Oyun, Google AdMob aracılığıyla reklam gösterebilir: ödül karşılığında (ek gülle, iki kat jeton, ek can) izlemeyi sizin seçtiğiniz kısa videolar ve 16. seviyeden sonra ve ilk üç gününüz dışında, kazanılan bir seviyenin ardından en fazla bir tam ekran reklam; oyun sırasında asla. Mağazadan yapılan herhangi bir satın alım tam ekran reklamları kalıcı olarak kapatır. Reklam gösterip ölçebilmek için Google; cihazınızın reklam kimliğini, IP adresinizi (buradan yaklaşık konum çıkarılır), cihaz bilgisini ve reklamlarla etkileşiminizi alır.
 
 Yasanın gerektirdiği yerlerde (örneğin Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre) herhangi bir reklam istenmeden önce Google'ın rıza formu seçiminizi sorar. Seçiminizi istediğiniz zaman Ayarlar > Gizlilik seçimleri bölümünden değiştirebilirsiniz. Reklam kimliğini cihaz ayarlarınızdan sıfırlayabilir veya silebilirsiniz.
 
