@@ -1,6 +1,6 @@
 MERRY PIER - PRIVACY POLICY
 
-Last updated: 15 November 2026
+Last updated: 24 November 2026
 
 Merry Pier is a mobile game made by CodingTech Studio, Basaksehir / Istanbul, Türkiye ("we"). This policy says what data the game uses, why, and what you can do about it. The game is made for adults and is not directed to children.
 
@@ -18,7 +18,7 @@ b) Crash reports
 If the game crashes, Firebase Crashlytics receives a crash report: what went wrong in the code, device model, operating system and app version, and an installation ID. We use it only to fix errors. Legal basis: our legitimate interest in a game that works.
 
 c) Advertising
-The game shows ads from Google AdMob: rewarded videos that play only when you tap a "watch" button, and a small banner on the park screen. There is no banner on the board and no ad that interrupts play. To show ads, Google receives your device's advertising ID, how you interact with ads, and your approximate location derived from your IP address. Ads are personalised only if you agree; otherwise you see non-personalised ads. On iPhone and iPad we also ask for the system's tracking permission before the first video, and only if you agreed to personalised ads.
+The game shows ads from Google AdMob: rewarded videos that play only when you tap a "watch" button, a small banner on the park screen, and, after your first days of play, a short full-screen ad now and then at a natural break (for example when you go from the board to the park). Full-screen ads never appear while you play on the board, are limited in number, and are switched off for good once you have bought anything in the game. To show ads, Google receives your device's advertising ID, how you interact with ads, and your approximate location derived from your IP address. Ads are personalised only if you agree; otherwise you see non-personalised ads. On iPhone and iPad we also ask for the system's tracking permission before the first video, and only if you agreed to personalised ads.
 
 d) Purchases
 You can buy gems and a starter pack. Payment is handled by Google Play (or the App Store) in its own window; the game never sees your card or account details. The game only learns from the store that a product was paid, so it can give you the gems, and keeps that on your device.
@@ -47,7 +47,7 @@ If the game starts to use data in a new way, we update this policy and its date 
 
 MERRY PIER - GİZLİLİK POLİTİKASI
 
-Son güncelleme: 15 Kasım 2026
+Son güncelleme: 24 Kasım 2026
 
 Merry Pier, CodingTech Studio (Başakşehir / İstanbul, Türkiye) tarafından yapılan bir mobil oyundur. Bu metin oyunun hangi verileri, neden kullandığını ve sizin neler yapabileceğinizi anlatır. Oyun yetişkinler için yapılmıştır; çocuklara yönelik değildir.
 
@@ -65,7 +65,7 @@ b) Çökme raporları
 Oyun çökerse Firebase Crashlytics bir çökme raporu alır: kodda neyin ters gittiği, cihaz modeli, işletim sistemi ve uygulama sürümü, kurulum kimliği. Yalnızca hataları düzeltmek için kullanırız. Hukuki dayanak: çalışan bir oyun sunmadaki meşru menfaatimiz.
 
 c) Reklam
-Oyun Google AdMob reklamları gösterir: yalnızca siz bir "izle" düğmesine bastığınızda oynayan ödüllü videolar ve park ekranında küçük bir banner. Tahtada banner yoktur ve oyunu bölen reklam yoktur. Reklam göstermek için Google, cihazınızın reklam kimliğini, reklamlarla etkileşiminizi ve IP adresinizden çıkarılan yaklaşık konumunuzu alır. Reklamlar yalnızca kabul ederseniz kişiselleştirilir; aksi hâlde kişiselleştirilmemiş reklam görürsünüz. iPhone ve iPad'de ilk videodan önce, yalnızca kişiselleştirilmiş reklamı kabul ettiyseniz, sistemin izleme iznini de sorarız.
+Oyun Google AdMob reklamları gösterir: yalnızca siz bir "izle" düğmesine bastığınızda oynayan ödüllü videolar, park ekranında küçük bir banner ve ilk günlerden sonra, doğal bir molada (örneğin tahtadan parka geçerken) arada bir gösterilen kısa tam ekran reklamlar. Tam ekran reklamlar tahtada oynarken asla çıkmaz, sayıları sınırlıdır ve oyunda herhangi bir satın alma yaptığınızda kalıcı olarak kapanır. Reklam göstermek için Google, cihazınızın reklam kimliğini, reklamlarla etkileşiminizi ve IP adresinizden çıkarılan yaklaşık konumunuzu alır. Reklamlar yalnızca kabul ederseniz kişiselleştirilir; aksi hâlde kişiselleştirilmemiş reklam görürsünüz. iPhone ve iPad'de ilk videodan önce, yalnızca kişiselleştirilmiş reklamı kabul ettiyseniz, sistemin izleme iznini de sorarız.
 
 d) Satın almalar
 Elmas ve bir başlangıç paketi satın alabilirsiniz. Ödemeyi Google Play (ya da App Store) kendi penceresinde yapar; oyun kart ya da hesap bilgilerinizi görmez. Oyun, elmasları verebilmek için mağazadan yalnızca ürünün ödendiğini öğrenir ve bunu cihazınızda saklar.
