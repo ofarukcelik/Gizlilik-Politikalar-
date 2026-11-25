@@ -1,6 +1,6 @@
 Tulipora - Privacy Policy
 
-Last updated: 21 November 2026
+Last updated: 25 November 2026
 
 Tulipora is a mobile logic puzzle game made by CodingTech Studio, Başakşehir / İstanbul, Türkiye ("we").
 Contact: codingtechstudio@gmail.com
@@ -10,10 +10,17 @@ Tulipora is made for adults. It is not directed to children and we do not knowin
 
 1. What stays on your device
 
-Your progress, coins, hints, collection, achievements, daily puzzle streak and settings are stored only on your device. We have no account system and no server of our own, and the game sends no play statistics or crash reports. Deleting the game deletes this data.
+Your progress, coins, hints, collection, achievements, daily puzzle streak and settings are stored only on your device. We have no account system and no server of our own. Deleting the game deletes this data. What the game sends for statistics and crash reports is described in section 2.
 
 
-2. Ads
+2. Play statistics and crash reports
+
+The game uses Google Firebase:
+- Crash reports (Firebase Crashlytics): if the game crashes, a report with the error, the device model, the operating system and app version and a random installation identifier is sent, so that we can fix the error. This is our legitimate interest in a working game; the report contains nothing you typed and no account.
+- Play statistics (Firebase Analytics): only if you allow them in the "Play statistics" window or in Settings > Play statistics. Then the game sends events such as a puzzle started or finished, its rule and difficulty, hints and rewards used, together with a random app-instance identifier and general device information (model, operating system, language, country). They are used only to improve the game, never for ads, and you can switch them off at any time. Without your permission nothing is collected.
+
+
+3. Ads
 
 The game shows ads through Google AdMob: videos you choose to watch for a reward (a hint, a continue, double coins or keeping your daily streak), full-screen ads between some puzzles, and a banner at the bottom of the puzzle screen. To show and measure ads, Google receives the advertising identifier of your device, your IP address (from which an approximate location is derived), device information and your interactions with the ads.
 
@@ -24,32 +31,32 @@ In the European Economic Area, the United Kingdom and Switzerland, a consent for
 How Google uses data from apps that use its services: https://policies.google.com/technologies/partner-sites
 
 
-3. Purchases
+4. Purchases
 
 If you buy something in the shop, the payment is handled entirely by Google Play (or the App Store). We never see your card or payment details. The game only learns from the store which product was bought and keeps the transaction identifier on your device so that a product is delivered once. "Restore purchases" in the shop asks the store again which one-time products your store account owns.
 
 
-4. Who receives data
+5. Who receives data
 
-Google Ireland Limited / Google LLC, as the provider of AdMob and of Google Play billing. Google may process data on servers outside your country, including the United States; it relies on the EU-U.S. Data Privacy Framework and standard contractual clauses. We do not sell your data and we share it with no one else.
-
-
-5. How long data is kept
-
-Data on your device: until you delete the game or its data. Ad data is kept by Google under its own policies.
+Google Ireland Limited / Google LLC, as the provider of Firebase, AdMob and Google Play billing. Google may process data on servers outside your country, including the United States; it relies on the EU-U.S. Data Privacy Framework and standard contractual clauses. We do not sell your data and we share it with no one else.
 
 
-6. Your rights
+6. How long data is kept
 
-Depending on where you live (for example under the GDPR, the UK GDPR or the Turkish Law No. 6698, KVKK), you have the right to ask what data is held about you, to have it corrected or deleted, to object to or restrict its use, to withdraw your consent at any time, and to complain to your data protection authority. We hold no personal data about you on our side; for ad data you can change your choice in the game and reset your advertising identifier, and you can write to codingtechstudio@gmail.com with any question. We answer within 30 days.
-
-
-7. Permissions
-
-Internet access and network state (ads, purchases), the advertising identifier (ads), billing (purchases through Google Play) and vibration (short feedback pulses you can switch off in Settings).
+Data on your device: until you delete the game or its data. Play statistics: at most 14 months. Crash reports: 90 days. Ad data is kept by Google under its own policies.
 
 
-8. Changes
+7. Your rights
+
+Depending on where you live (for example under the GDPR, the UK GDPR or the Turkish Law No. 6698, KVKK), you have the right to ask what data is held about you, to have it corrected or deleted, to object to or restrict its use, to withdraw your consent at any time, and to complain to your data protection authority. We hold no account or name on our side: play statistics and crash reports are tied only to random identifiers that we cannot link to you. You can switch play statistics off in Settings, change your ad choice in the game and reset your advertising identifier, and you can write to codingtechstudio@gmail.com with any question. We answer within 30 days.
+
+
+8. Permissions
+
+Internet access and network state (ads, purchases, crash reports and play statistics), the advertising identifier (ads), billing (purchases through Google Play), vibration (short feedback pulses you can switch off in Settings), and wake lock, foreground service and install referrer, which the Google libraries use to send their data reliably.
+
+
+9. Changes
 
 If this policy changes, the date at the top changes and the new text is published at the same address.
 
@@ -59,7 +66,7 @@ If this policy changes, the date at the top changes and the new text is publishe
 
 Tulipora - Gizlilik Politikası
 
-Son güncelleme: 21 Kasım 2026
+Son güncelleme: 25 Kasım 2026
 
 Tulipora, CodingTech Studio (Başakşehir / İstanbul, Türkiye) tarafından yapılan bir mobil mantık bulmacası oyunudur ("biz").
 İletişim: codingtechstudio@gmail.com
@@ -69,10 +76,17 @@ Tulipora yetişkinler için yapılmıştır. Çocuklara yönelik değildir ve bi
 
 1. Cihazınızda kalanlar
 
-İlerlemeniz, jetonlarınız, ipuçlarınız, koleksiyonunuz, başarılarınız, günlük bulmaca seriniz ve ayarlarınız yalnızca cihazınızda saklanır. Hesap sistemimiz ve kendi sunucumuz yoktur; oyun oyun istatistiği veya çökme raporu göndermez. Oyunu silmek bu verileri siler.
+İlerlemeniz, jetonlarınız, ipuçlarınız, koleksiyonunuz, başarılarınız, günlük bulmaca seriniz ve ayarlarınız yalnızca cihazınızda saklanır. Hesap sistemimiz ve kendi sunucumuz yoktur. Oyunu silmek bu verileri siler. Oyunun istatistik ve çökme raporu olarak gönderdikleri 2. bölümde anlatılır.
 
 
-2. Reklamlar
+2. Oyun istatistikleri ve çökme raporları
+
+Oyun Google Firebase kullanır:
+- Çökme raporları (Firebase Crashlytics): oyun çökerse, hatayı düzeltebilmemiz için hata bilgisi, cihaz modeli, işletim sistemi ve uygulama sürümü ile rastgele bir kurulum kimliği içeren bir rapor gönderilir. Bu, çalışan bir oyun için meşru menfaatimizdir; raporda yazdığınız hiçbir şey ve hesap bilgisi bulunmaz.
+- Oyun istatistikleri (Firebase Analytics): yalnızca "Oyun istatistikleri" penceresinde ya da Ayarlar > Oyun istatistikleri bölümünde izin verirseniz. O zaman oyun; bir bulmacanın başlaması veya bitmesi, kuralı ve zorluğu, kullanılan ipuçları ve ödüller gibi olayları, rastgele bir uygulama örneği kimliği ve genel cihaz bilgisiyle (model, işletim sistemi, dil, ülke) birlikte gönderir. Bunlar yalnızca oyunu geliştirmek için kullanılır, hiçbir zaman reklam için kullanılmaz ve istediğiniz zaman kapatabilirsiniz. İzniniz olmadan hiçbir şey toplanmaz.
+
+
+3. Reklamlar
 
 Oyun, Google AdMob aracılığıyla reklam gösterir: ödül karşılığında (ipucu, devam, iki kat jeton veya günlük serini koruma) izlemeyi sizin seçtiğiniz videolar, bazı bulmacaların arasında tam ekran reklamlar ve bulmaca ekranının altında bir banner. Reklam gösterip ölçebilmek için Google; cihazınızın reklam kimliğini, IP adresinizi (buradan yaklaşık konum çıkarılır), cihaz bilgisini ve reklamlarla etkileşiminizi alır.
 
@@ -83,31 +97,31 @@ Mağazadaki "Reklamları kaldır", bulmacalar arasındaki reklamları ve banner'
 Google'ın, hizmetlerini kullanan uygulamalardan gelen verileri nasıl kullandığı: https://policies.google.com/technologies/partner-sites
 
 
-3. Satın almalar
+4. Satın almalar
 
 Mağazadan bir şey satın alırsanız ödeme tamamen Google Play (veya App Store) tarafından yapılır. Kart veya ödeme bilgilerinizi hiçbir zaman görmeyiz. Oyun mağazadan yalnızca hangi ürünün alındığını öğrenir ve bir ürünün bir kez teslim edilmesi için işlem kimliğini cihazınızda saklar. Mağazadaki "Satın alımları geri yükle", mağaza hesabınızın sahip olduğu tek seferlik ürünleri mağazaya yeniden sorar.
 
 
-4. Verileri kimler alır
+5. Verileri kimler alır
 
-AdMob'un ve Google Play faturalandırmasının sağlayıcısı olarak Google Ireland Limited / Google LLC. Google verileri, Amerika Birleşik Devletleri dahil ülkeniz dışındaki sunucularda işleyebilir; bunun için AB-ABD Veri Gizliliği Çerçevesi'ne ve standart sözleşme maddelerine dayanır. Verilerinizi satmayız ve başka kimseyle paylaşmayız.
-
-
-5. Saklama süresi
-
-Cihazınızdaki veriler: oyunu veya verilerini silene kadar. Reklam verileri Google tarafından kendi politikalarına göre saklanır.
+Firebase'in, AdMob'un ve Google Play faturalandırmasının sağlayıcısı olarak Google Ireland Limited / Google LLC. Google verileri, Amerika Birleşik Devletleri dahil ülkeniz dışındaki sunucularda işleyebilir; bunun için AB-ABD Veri Gizliliği Çerçevesi'ne ve standart sözleşme maddelerine dayanır. Verilerinizi satmayız ve başka kimseyle paylaşmayız.
 
 
-6. Haklarınız
+6. Saklama süresi
 
-Yaşadığınız yere göre (örneğin GDPR, Birleşik Krallık GDPR'ı veya 6698 sayılı Kişisel Verilerin Korunması Kanunu, KVKK) hakkınızda hangi verilerin tutulduğunu sorma, düzeltilmesini veya silinmesini isteme, işlenmesine itiraz etme veya kısıtlanmasını isteme, rızanızı istediğiniz zaman geri alma ve veri koruma kurumuna şikâyet etme haklarınız vardır. Bizim tarafımızda hakkınızda kişisel veri tutulmaz; reklam verileri için oyundaki seçiminizi değiştirebilir ve reklam kimliğinizi sıfırlayabilirsiniz. Her soru için codingtechstudio@gmail.com adresine yazabilirsiniz. 30 gün içinde yanıt veririz.
-
-
-7. İzinler
-
-İnternet erişimi ve ağ durumu (reklamlar, satın almalar), reklam kimliği (reklamlar), faturalandırma (Google Play üzerinden satın almalar) ve titreşim (Ayarlar'dan kapatabileceğiniz kısa geri bildirim titreşimleri).
+Cihazınızdaki veriler: oyunu veya verilerini silene kadar. Oyun istatistikleri: en fazla 14 ay. Çökme raporları: 90 gün. Reklam verileri Google tarafından kendi politikalarına göre saklanır.
 
 
-8. Değişiklikler
+7. Haklarınız
+
+Yaşadığınız yere göre (örneğin GDPR, Birleşik Krallık GDPR'ı veya 6698 sayılı Kişisel Verilerin Korunması Kanunu, KVKK) hakkınızda hangi verilerin tutulduğunu sorma, düzeltilmesini veya silinmesini isteme, işlenmesine itiraz etme veya kısıtlanmasını isteme, rızanızı istediğiniz zaman geri alma ve veri koruma kurumuna şikâyet etme haklarınız vardır. Bizim tarafımızda hesap veya ad tutulmaz: oyun istatistikleri ve çökme raporları yalnızca sizinle ilişkilendiremediğimiz rastgele kimliklere bağlıdır. Oyun istatistiklerini Ayarlar'dan kapatabilir, reklam seçiminizi oyunda değiştirebilir ve reklam kimliğinizi sıfırlayabilirsiniz. Her soru için codingtechstudio@gmail.com adresine yazabilirsiniz. 30 gün içinde yanıt veririz.
+
+
+8. İzinler
+
+İnternet erişimi ve ağ durumu (reklamlar, satın almalar, çökme raporları ve oyun istatistikleri), reklam kimliği (reklamlar), faturalandırma (Google Play üzerinden satın almalar), titreşim (Ayarlar'dan kapatabileceğiniz kısa geri bildirim titreşimleri) ve Google kütüphanelerinin verilerini güvenle göndermek için kullandığı uyanık tutma, ön plan hizmeti ve yükleme kaynağı izinleri.
+
+
+9. Değişiklikler
 
 Bu politika değişirse en üstteki tarih değişir ve yeni metin aynı adreste yayımlanır.
