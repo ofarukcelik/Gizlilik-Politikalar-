@@ -1,6 +1,6 @@
 Frostary - Privacy Policy
 
-Last updated: 26 November 2026
+Last updated: 27 November 2026
 
 Frostary is a mobile puzzle game made by CodingTech Studio, Başakşehir / İstanbul, Türkiye ("we").
 Contact: codingtechstudio@gmail.com
@@ -38,6 +38,8 @@ The game shows ads through Google AdMob: videos you choose to watch for a reward
 
 In the European Economic Area, the United Kingdom and Switzerland, a consent form from Google asks for your choice before any ad is requested. Elsewhere the game asks with its own window. Without your consent to personalised ads, only non-personalised ads are requested. You can reopen your ad choices under Settings > Privacy options. You can also reset or delete the advertising identifier in your device settings.
 
+On iPhone and iPad, Google can read the advertising identifier only if you allow it in Apple's own permission window ("Allow Tracking"). The game shows that window only when you yourself choose personalised ads under Settings > Privacy options, or after you agreed in Google's consent form; never when the game starts. If you do not allow it, or never choose personalised ads, only non-personalised ads are requested and the game works the same. You can change the permission at any time in your device's Settings > Privacy & Security > Tracking.
+
 How Google uses data from apps that use its services: https://policies.google.com/technologies/partner-sites
 
 
@@ -47,7 +49,7 @@ Google Ireland Limited / Google LLC, as the provider of Firebase Crashlytics, Fi
 
 Purchases: if you buy something in the shop, the payment is handled entirely by Google Play (or the App Store). We never see your card or payment details. The game only learns from the store which product was bought, and keeps the transaction identifier on your device so that a product is delivered once. "Restore purchases" in the shop asks the store again which one-time products your store account owns.
 
-Rating window and our other games: the game may ask Google Play to show its own rating window, and Settings lists our other games with a link to their Google Play pages. Tapping a link opens Google Play. We send no data for either; the link only tells Google Play which of our games it was opened from. What you do in Google Play is covered by Google's privacy policy.
+Rating window and our other games: the game may ask the store it was installed from (Google Play or the App Store) to show the store's own rating window. On Android, Settings lists our other games with a link to their Google Play pages; on iPhone and iPad the list appears only for games that are on the App Store, with a link to their App Store pages. Tapping a link opens the store. We send no data for either; on Android the link only tells Google Play which of our games it was opened from. What you do in the store is covered by the privacy policy of Google or Apple.
 
 
 6. How long data is kept
@@ -62,7 +64,9 @@ Depending on where you live (for example under the GDPR, the UK GDPR or the Turk
 
 8. Permissions
 
-Internet access (crash reports, game settings, statistics, ads), vibration (short feedback pulses you can switch off in Settings), the advertising identifier (ads), and billing (purchases through Google Play).
+Android: internet access (crash reports, game settings, statistics, ads), vibration (short feedback pulses you can switch off in Settings), the advertising identifier (ads), and billing (purchases through Google Play).
+
+iPhone and iPad: the game asks for no permission when it starts. Apple's tracking permission is asked only as described under "Ads". Purchases go through the App Store. The game uses no camera, microphone, photos, location, contacts or notifications.
 
 
 9. Changes
@@ -75,7 +79,7 @@ If this policy changes, the date at the top changes and the new text is publishe
 
 Frostary - Gizlilik Politikası
 
-Son güncelleme: 26 Kasım 2026
+Son güncelleme: 27 Kasım 2026
 
 Frostary, CodingTech Studio (Başakşehir / İstanbul, Türkiye) tarafından yapılan bir mobil bulmaca oyunudur ("biz").
 İletişim: codingtechstudio@gmail.com
@@ -113,6 +117,8 @@ Oyun, Google AdMob aracılığıyla reklam gösterir: ödül karşılığında i
 
 Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de, herhangi bir reklam istenmeden önce Google'ın rıza formu seçiminizi sorar. Diğer yerlerde oyun kendi penceresiyle sorar. Kişiselleştirilmiş reklamlara rızanız yoksa yalnızca kişiselleştirilmemiş reklam istenir. Reklam seçimlerinizi Ayarlar > Gizlilik seçenekleri bölümünden yeniden açabilirsiniz. Reklam kimliğini cihaz ayarlarınızdan sıfırlayabilir veya silebilirsiniz.
 
+iPhone ve iPad'de Google, reklam kimliğini yalnızca Apple'ın kendi izin penceresinde ("İzlemeye İzin Ver") izin verirseniz okuyabilir. Oyun bu pencereyi yalnızca siz Ayarlar > Gizlilik seçenekleri bölümünde kişiselleştirilmiş reklamları seçtiğinizde veya Google'ın rıza formunda onay verdikten sonra gösterir; oyun açılırken hiçbir zaman göstermez. İzin vermezseniz veya kişiselleştirilmiş reklamları hiç seçmezseniz yalnızca kişiselleştirilmemiş reklam istenir ve oyun aynı şekilde çalışır. İzni dilediğiniz zaman cihazınızın Ayarlar > Gizlilik ve Güvenlik > İzleme bölümünden değiştirebilirsiniz.
+
 Google'ın, hizmetlerini kullanan uygulamalardan gelen verileri nasıl kullandığı: https://policies.google.com/technologies/partner-sites
 
 
@@ -122,7 +128,7 @@ Firebase Crashlytics, Firebase Remote Config, Google Analytics for Firebase ve A
 
 Satın alımlar: mağazadan bir şey satın alırsanız ödemeyi tümüyle Google Play (veya App Store) yürütür. Kart veya ödeme bilgilerinizi hiçbir zaman görmeyiz. Oyun, mağazadan yalnızca hangi ürünün satın alındığını öğrenir ve ürünün bir kez teslim edilmesi için işlem kimliğini cihazınızda saklar. Mağazadaki "Satın alımları geri yükle" düğmesi, mağaza hesabınızın sahip olduğu tek seferlik ürünleri mağazaya yeniden sorar.
 
-Puanlama penceresi ve diğer oyunlarımız: Oyun, Google Play'den kendi puanlama penceresini göstermesini isteyebilir; Ayarlar'da da diğer oyunlarımız, Google Play sayfalarına giden bir bağlantıyla listelenir. Bağlantıya dokunmak Google Play'i açar. İkisi için de bizden veri gitmez; bağlantı Google Play'e yalnızca hangi oyunumuzdan açıldığını söyler. Google Play'de yaptıklarınız Google'ın gizlilik politikasına tabidir.
+Puanlama penceresi ve diğer oyunlarımız: Oyun, yüklendiği mağazadan (Google Play veya App Store) mağazanın kendi puanlama penceresini göstermesini isteyebilir. Android'de Ayarlar'da diğer oyunlarımız, Google Play sayfalarına giden bir bağlantıyla listelenir; iPhone ve iPad'de liste yalnızca App Store'da bulunan oyunlarımız için, App Store sayfalarına giden bağlantıyla görünür. Bağlantıya dokunmak mağazayı açar. İkisi için de bizden veri gitmez; Android'de bağlantı Google Play'e yalnızca hangi oyunumuzdan açıldığını söyler. Mağazada yaptıklarınız Google'ın veya Apple'ın gizlilik politikasına tabidir.
 
 
 6. Veriler ne kadar saklanır
@@ -137,7 +143,9 @@ Yaşadığınız yere göre (örneğin GDPR, Birleşik Krallık GDPR'ı veya 669
 
 8. İzinler
 
-İnternet erişimi (çökme raporları, oyun ayarları, istatistikler, reklamlar), titreşim (Ayarlar'dan kapatabileceğiniz kısa geri bildirim darbeleri) reklam kimliği (reklamlar) ve faturalandırma (Google Play üzerinden satın alımlar).
+Android: internet erişimi (çökme raporları, oyun ayarları, istatistikler, reklamlar), titreşim (Ayarlar'dan kapatabileceğiniz kısa geri bildirim darbeleri), reklam kimliği (reklamlar) ve faturalandırma (Google Play üzerinden satın alımlar).
+
+iPhone ve iPad: oyun açılırken hiçbir izin istemez. Apple'ın izleme izni yalnızca "Reklamlar" bölümünde anlatıldığı şekilde sorulur. Satın alımlar App Store üzerinden yapılır. Oyun kamera, mikrofon, fotoğraflar, konum, kişiler veya bildirim kullanmaz.
 
 
 9. Değişiklikler
