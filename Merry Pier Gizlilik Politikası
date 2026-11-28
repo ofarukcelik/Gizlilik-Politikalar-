@@ -1,6 +1,6 @@
 MERRY PIER - PRIVACY POLICY
 
-Last updated: 26 November 2026
+Last updated: 28 November 2026
 
 Merry Pier is a mobile game made by CodingTech Studio, Basaksehir / Istanbul, Türkiye ("we"). This policy says what data the game uses, why, and what you can do about it. The game is made for adults and is not directed to children.
 
@@ -12,25 +12,32 @@ Your progress (board, coins, park, settings) is saved only on your device. We ha
 2. WHAT IS SENT, AND ONLY WHEN
 
 a) Game analytics - only if you agree
-If you agree in the privacy window, Google Analytics for Firebase receives: an app-instance ID (a random ID for this installation), gameplay events (for example "order served", "zone finished"), and general device information (model, operating system, language, country). We use it to balance and improve the game. We do not send your name, e-mail, contacts, photos or precise location. If you do not agree, analytics stays off.
+If you agree in the privacy window, Google Analytics for Firebase receives: an app-instance ID (a random ID for this installation), gameplay events (for example "order served", "zone finished"), and general device information (model, operating system, language, country). We use it to balance and improve the game. We do not send your name, e-mail, contacts, photos or precise location. If analytics is on and you buy something, the events include which product was bought (its name only: no price, no payment details). If you do not agree, analytics stays off.
 
 b) Crash reports
 If the game crashes, Firebase Crashlytics receives a crash report: what went wrong in the code, device model, operating system and app version, and an installation ID. We use it only to fix errors. Legal basis: our legitimate interest in a game that works.
 
 c) Advertising
-The game shows ads from Google AdMob: rewarded videos that play only when you tap a "watch" button, a small banner on the park screen, and, after your first days of play, a short full-screen ad now and then at a natural break (for example when you go from the board to the park). Full-screen ads never appear while you play on the board, are limited in number, and are switched off for good once you have bought anything in the game. To show ads, Google receives your device's advertising ID, how you interact with ads, and your approximate location derived from your IP address. Ads are personalised only if you agree; otherwise you see non-personalised ads. On iPhone and iPad we also ask for the system's tracking permission before the first video, and only if you agreed to personalised ads.
+The game shows ads from Google AdMob: rewarded videos that play only when you tap a "watch" button, a small banner on the park screen, and, after your first days of play, a short full-screen ad now and then at a natural break (for example when you go from the board to the park). Full-screen ads never appear while you play on the board, are limited in number, and are switched off for good once you have bought anything in the game. To show ads, Google receives your device's advertising ID, how you interact with ads, and your approximate location derived from your IP address. Ads are personalised only if you agree; otherwise you see non-personalised ads.
+
+On iPhone and iPad, Google can read the advertising identifier only if you allow it in Apple's own permission window ("Allow Tracking"). The game shows that window only when you yourself switch personalised ads on in the game's privacy window (the "Personalised ads" switch or "Allow both"), or after you agreed in Google's consent form; never without that choice. If you do not allow it, or never choose personalised ads, only non-personalised ads are requested and the game works the same. You can change the permission at any time in your device's Settings > Privacy & Security > Tracking.
 
 d) Purchases
-You can buy gems and a starter pack. Payment is handled by Google Play (or the App Store) in its own window; the game never sees your card or account details. The game only learns from the store that a product was paid, so it can give you the gems, and keeps that on your device.
+You can buy gems, a starter pack and a Season Pass (one purchase for the running season; it does not renew). Payment is handled by the store the game was installed from (Google Play or the App Store) in its own window; the game never sees your card or account details. The game only learns from the store that a product was paid, so it can give you what you bought, and keeps that on your device.
 
 e) Rating window and our other games
-The game may ask Google Play to show its own rating window, and Settings lists our other games with a link to their Google Play pages. Tapping a link opens Google Play. We send no data for either; the link only tells Google Play which of our games it was opened from. What you do in Google Play is covered by Google's privacy policy.
+The game may ask the store it was installed from (Google Play or the App Store) to show the store's own rating window. On Android, Settings lists our other games with a link to their Google Play pages; on iPhone and iPad the list appears only for games that are on the App Store, with a link to their App Store pages. Tapping a link opens the store. We send no data for either; on Android the link only tells Google Play which of our games it was opened from. What you do in the store is covered by the privacy policy of Google or Apple.
+
+f) Permissions
+Android: internet access (crash reports, analytics, ads), the advertising identifier (ads), billing (purchases through Google Play), and technical permissions that the Firebase and AdMob libraries add (network state, keeping the device awake while they send data, reading how the game was installed).
+
+iPhone and iPad: the game asks for no permission when it starts. Apple's tracking permission is asked only as described under "Advertising". Purchases go through the App Store. The game uses no camera, microphone, photos, location, contacts or notifications.
 
 3. YOUR CHOICES
 - The game asks for your choice when you first open it. In the European Economic Area, the United Kingdom and Switzerland this is Google's consent form; elsewhere it is the game's own window.
 - You can change your choice at any time: Settings (the gear) > Privacy options > Change my choice.
 - Privacy options also shows your data ID (the analytics app-instance ID, only while analytics is on) with a Copy button. Send it to us if you want your analytics data deleted.
-- You can reset or switch off your advertising ID in your device settings.
+- You can reset or switch off your advertising ID in your device settings (Android), or take back the tracking permission under Settings > Privacy & Security > Tracking (iPhone and iPad).
 
 4. WHO RECEIVES DATA
 Google Ireland Limited / Google LLC, as the provider of Firebase and AdMob. Google's policy: https://policies.google.com/privacy . Data may be processed outside your country, including in the United States, under Google's standard contractual safeguards. We do not sell personal data.
@@ -50,7 +57,7 @@ If the game starts to use data in a new way, we update this policy and its date 
 
 MERRY PIER - GİZLİLİK POLİTİKASI
 
-Son güncelleme: 26 Kasım 2026
+Son güncelleme: 28 Kasım 2026
 
 Merry Pier, CodingTech Studio (Başakşehir / İstanbul, Türkiye) tarafından yapılan bir mobil oyundur. Bu metin oyunun hangi verileri, neden kullandığını ve sizin neler yapabileceğinizi anlatır. Oyun yetişkinler için yapılmıştır; çocuklara yönelik değildir.
 
@@ -62,25 +69,32 @@ Merry Pier, CodingTech Studio (Başakşehir / İstanbul, Türkiye) tarafından y
 2. GÖNDERİLENLER VE NE ZAMAN GÖNDERİLDİĞİ
 
 a) Oyun analizi - yalnızca kabul ederseniz
-Gizlilik penceresinde kabul ederseniz Google Analytics for Firebase şunları alır: uygulama örneği kimliği (bu kuruluma özel rastgele bir kimlik), oynanış olayları (örneğin "sipariş verildi", "bölge bitti") ve genel cihaz bilgisi (model, işletim sistemi, dil, ülke). Bunu oyunu dengelemek ve iyileştirmek için kullanırız. Adınızı, e-postanızı, kişilerinizi, fotoğraflarınızı ya da kesin konumunuzu göndermeyiz. Kabul etmezseniz analiz kapalı kalır.
+Gizlilik penceresinde kabul ederseniz Google Analytics for Firebase şunları alır: uygulama örneği kimliği (bu kuruluma özel rastgele bir kimlik), oynanış olayları (örneğin "sipariş verildi", "bölge bitti") ve genel cihaz bilgisi (model, işletim sistemi, dil, ülke). Bunu oyunu dengelemek ve iyileştirmek için kullanırız. Adınızı, e-postanızı, kişilerinizi, fotoğraflarınızı ya da kesin konumunuzu göndermeyiz. Analiz açıkken bir şey satın alırsanız olaylar hangi ürünün alındığını da içerir (yalnızca ürünün adı: fiyat ya da ödeme bilgisi yok). Kabul etmezseniz analiz kapalı kalır.
 
 b) Çökme raporları
 Oyun çökerse Firebase Crashlytics bir çökme raporu alır: kodda neyin ters gittiği, cihaz modeli, işletim sistemi ve uygulama sürümü, kurulum kimliği. Yalnızca hataları düzeltmek için kullanırız. Hukuki dayanak: çalışan bir oyun sunmadaki meşru menfaatimiz.
 
 c) Reklam
-Oyun Google AdMob reklamları gösterir: yalnızca siz bir "izle" düğmesine bastığınızda oynayan ödüllü videolar, park ekranında küçük bir banner ve ilk günlerden sonra, doğal bir molada (örneğin tahtadan parka geçerken) arada bir gösterilen kısa tam ekran reklamlar. Tam ekran reklamlar tahtada oynarken asla çıkmaz, sayıları sınırlıdır ve oyunda herhangi bir satın alma yaptığınızda kalıcı olarak kapanır. Reklam göstermek için Google, cihazınızın reklam kimliğini, reklamlarla etkileşiminizi ve IP adresinizden çıkarılan yaklaşık konumunuzu alır. Reklamlar yalnızca kabul ederseniz kişiselleştirilir; aksi hâlde kişiselleştirilmemiş reklam görürsünüz. iPhone ve iPad'de ilk videodan önce, yalnızca kişiselleştirilmiş reklamı kabul ettiyseniz, sistemin izleme iznini de sorarız.
+Oyun Google AdMob reklamları gösterir: yalnızca siz bir "izle" düğmesine bastığınızda oynayan ödüllü videolar, park ekranında küçük bir banner ve ilk günlerden sonra, doğal bir molada (örneğin tahtadan parka geçerken) arada bir gösterilen kısa tam ekran reklamlar. Tam ekran reklamlar tahtada oynarken asla çıkmaz, sayıları sınırlıdır ve oyunda herhangi bir satın alma yaptığınızda kalıcı olarak kapanır. Reklam göstermek için Google, cihazınızın reklam kimliğini, reklamlarla etkileşiminizi ve IP adresinizden çıkarılan yaklaşık konumunuzu alır. Reklamlar yalnızca kabul ederseniz kişiselleştirilir; aksi hâlde kişiselleştirilmemiş reklam görürsünüz.
+
+iPhone ve iPad'de Google, reklam kimliğini yalnızca Apple'ın kendi izin penceresinde ("İzlemeye İzin Ver") izin verirseniz okuyabilir. Oyun bu pencereyi yalnızca siz oyunun gizlilik penceresinde kişiselleştirilmiş reklamı açtığınızda ("Kişiselleştirilmiş reklam" anahtarı ya da "İkisine de izin ver") veya Google'ın onay formunda kabul ettikten sonra gösterir; bu seçim olmadan hiçbir zaman göstermez. İzin vermezseniz veya kişiselleştirilmiş reklamı hiç seçmezseniz yalnızca kişiselleştirilmemiş reklam istenir ve oyun aynı şekilde çalışır. İzni dilediğiniz zaman cihazınızın Ayarlar > Gizlilik ve Güvenlik > İzleme bölümünden değiştirebilirsiniz.
 
 d) Satın almalar
-Elmas ve bir başlangıç paketi satın alabilirsiniz. Ödemeyi Google Play (ya da App Store) kendi penceresinde yapar; oyun kart ya da hesap bilgilerinizi görmez. Oyun, elmasları verebilmek için mağazadan yalnızca ürünün ödendiğini öğrenir ve bunu cihazınızda saklar.
+Elmas, bir başlangıç paketi ve Sezon Bileti (içinde bulunulan sezon için tek satın alma; yenilenmez) satın alabilirsiniz. Ödemeyi oyunun yüklendiği mağaza (Google Play ya da App Store) kendi penceresinde yapar; oyun kart ya da hesap bilgilerinizi görmez. Oyun, aldığınızı verebilmek için mağazadan yalnızca ürünün ödendiğini öğrenir ve bunu cihazınızda saklar.
 
 e) Puanlama penceresi ve diğer oyunlarımız
-Oyun, Google Play'den kendi puanlama penceresini göstermesini isteyebilir; Ayarlar'da da diğer oyunlarımız, Google Play sayfalarına giden bir bağlantıyla listelenir. Bağlantıya dokunmak Google Play'i açar. İkisi için de bizden veri gitmez; bağlantı Google Play'e yalnızca hangi oyunumuzdan açıldığını söyler. Google Play'de yaptıklarınız Google'ın gizlilik politikasına tabidir.
+Oyun, yüklendiği mağazadan (Google Play veya App Store) mağazanın kendi puanlama penceresini göstermesini isteyebilir. Android'de Ayarlar'da diğer oyunlarımız, Google Play sayfalarına giden bir bağlantıyla listelenir; iPhone ve iPad'de liste yalnızca App Store'da bulunan oyunlarımız için, App Store sayfalarına giden bağlantıyla görünür. Bağlantıya dokunmak mağazayı açar. İkisi için de bizden veri gitmez; Android'de bağlantı Google Play'e yalnızca hangi oyunumuzdan açıldığını söyler. Mağazada yaptıklarınız Google'ın veya Apple'ın gizlilik politikasına tabidir.
+
+f) İzinler
+Android: internet erişimi (çökme raporları, analiz, reklamlar), reklam kimliği (reklamlar), faturalandırma (Google Play üzerinden satın alımlar) ve Firebase ile AdMob kitaplıklarının eklediği teknik izinler (ağ durumu, veri gönderirken cihazı uyanık tutma, oyunun nasıl yüklendiğini okuma).
+
+iPhone ve iPad: oyun açılırken hiçbir izin istemez. Apple'ın izleme izni yalnızca "Reklam" bölümünde anlatıldığı şekilde sorulur. Satın alımlar App Store üzerinden yapılır. Oyun kamera, mikrofon, fotoğraflar, konum, kişiler veya bildirim kullanmaz.
 
 3. SEÇENEKLERİNİZ
 - Oyun ilk açılışta seçiminizi sorar. Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de bu Google'ın onay formudur; diğer yerlerde oyunun kendi penceresidir.
 - Seçiminizi istediğiniz zaman değiştirebilirsiniz: Ayarlar (dişli) > Gizlilik seçenekleri > Seçimimi değiştir.
 - Gizlilik seçenekleri, veri kimliğinizi (analiz uygulama örneği kimliği; yalnızca analiz açıkken) Kopyala düğmesiyle gösterir. Analiz verilerinizin silinmesini isterseniz bu kimliği bize gönderin.
-- Reklam kimliğinizi cihaz ayarlarınızdan sıfırlayabilir ya da kapatabilirsiniz.
+- Reklam kimliğinizi cihaz ayarlarınızdan sıfırlayabilir ya da kapatabilirsiniz (Android); izleme iznini Ayarlar > Gizlilik ve Güvenlik > İzleme bölümünden geri alabilirsiniz (iPhone ve iPad).
 
 4. VERİYİ KİM ALIR
 Firebase ve AdMob'un sağlayıcısı olarak Google Ireland Limited / Google LLC. Google'ın politikası: https://policies.google.com/privacy . Veriler, Google'ın standart sözleşme güvenceleriyle, Amerika Birleşik Devletleri dahil ülkeniz dışında işlenebilir. Kişisel veri satmayız.
